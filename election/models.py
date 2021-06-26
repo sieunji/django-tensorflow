@@ -9,7 +9,7 @@ import json
 import warnings
 # from monaco.common.models import FileDTO, Printer, Reader
 from matplotlib import font_manager, rc
-import pandas as pd
+import pandas_tutorial as pd
 from icecream import ic
 @dataclass
 class File(object):
